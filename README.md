@@ -7,3 +7,7 @@
 ## How to use
 
   Open the CesarCrypto.asm file in the MARS IDE and run.
+  
+## Download MARS IDE
+
+  http://courses.missouristate.edu/kenvollmar/mars/download.htm
